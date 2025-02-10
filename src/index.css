@@ -1,0 +1,17 @@
+body {
+    margin: 20px;
+}
+button {
+    width: 100px;
+}
+input {
+    width: 50px;
+    vertical-align: middle;
+}
+button, input {
+    margin: 10px 10px 10px 0;
+}
+.error {
+    color: red;
+    font: bold italic
+}
